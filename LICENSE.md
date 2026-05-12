@@ -1,4 +1,4 @@
-#  
+#  bee swarm simulator updated Script offers the most advanced bee swarm simulator Script, with anti-ban and auto-upgrade. Perfect for dominating any
 
 
 
